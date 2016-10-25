@@ -4,6 +4,10 @@ h1 {
   text-align: centre;
   padding-top: 15px;
   padding-bottom: 20px;
+}
 
+p {
+  color: black;
+  font-family: Arial;
 }
 
