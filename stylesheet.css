@@ -1,3 +1,10 @@
+div {
+  width: auto;
+  height: auto;
+  background-image: url("http://www.oberreute.de/se_data/_filebank/02_headerbilder/_7254_7261_Ausschnitt_klein.jpg/755.jpg");
+}
+
+
 h1 {
   color: #ff8533;
   font-family: "Arial";
