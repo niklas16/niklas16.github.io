@@ -6,6 +6,8 @@ div {
   height: auto;
   background-image: url("755.jpg");
   background-repeat: no-repeat;
+  width: auto;
+  height: auto;
 }
 
 h1 {
