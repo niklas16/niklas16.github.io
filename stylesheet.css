@@ -2,8 +2,8 @@ body {
   background-color:#99ffff;
 }
 div {
-  width: 5000px;
-  height: 20px;
+  width: auto;
+  height: auto;
   background-image: url("755.jpg");
   background-repeat: no-repeat;
 }
